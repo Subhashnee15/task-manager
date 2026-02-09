@@ -1,0 +1,25 @@
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #4872e7;
+  }
+  .container {
+    width: 400px;
+    margin: 50px auto;
+    background: #2bd86d;
+    padding: 20px;
+  }
+  input {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+  }
+  button {
+    padding: 8px 12px;
+    cursor: pointer;
+  }
+  li {
+    display: flex;
+    justify-content: space-between;
+    margin:8px 0
+
+  }
